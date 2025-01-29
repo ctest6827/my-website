@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0744ac99;
+}
+
+.hero-section {
+    background: url('images/background.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 0;
+    text-align: left;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.services-section, .pricing-section, .contact-section, .trial-section {
+    padding: 60px 0;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.904);
+}
+
+.footer {
+    margin-top: 40px;
+}
+.hero-section {
+    background: url('images/TV.jpg.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 0;
+    text-align: left;
+}
+.hero-section h1, 
+.hero-section p {
+    color: rgb(0, 0, 0); /* تغییر رنگ به آبی */
+}
+.hero-section h1, 
+.hero-section p {
+    color: #007bff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); 
+}
+.hero-section h1, 
+.hero-section p {
+    color: blue; /* تغییر رنگ به آبی */
+}
+.hero-section h1, 
+.hero-section p {
+    background-color: #007bff; /* پس‌زمینه آبی */
+    color: white; /* متن سفید */
+    display: inline-block; /* اندازه با متن تنظیم شود */
+    padding: 10px 20px; /* فاصله داخلی برای زیباتر شدن */
+    border-radius: 5px; /* گوشه‌های گرد */
+}
+.advertisement {
+    background: #1e3a8a; /* رنگ پس‌زمینه آبی */
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.advertisement h2, .advertisement h3 {
+    color: #facc15; /* رنگ زرد برای تاکید */
+}
+
+.advertisement ul {
+    list-style: none;
+    padding: 0;
+}
+
+.advertisement ul li {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.advertisement p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+
